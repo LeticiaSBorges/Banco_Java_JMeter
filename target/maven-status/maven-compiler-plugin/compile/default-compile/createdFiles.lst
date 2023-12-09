@@ -1,0 +1,6 @@
+br\com\ifpa\banco\repositorio\ContaRep.class
+br\com\ifpa\banco\repositorio\ContaVersionadaRep.class
+br\com\ifpa\banco\modelo\ContaBancaria.class
+br\com\ifpa\banco\controlador\ContaBancariaControlador.class
+br\com\ifpa\banco\modelo\ContaBancariaVersionada.class
+br\com\ifpa\banco\BancoApplication.class
