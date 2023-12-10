@@ -38,6 +38,6 @@ Similar a ContaRep, esta interface fornece métodos para operações CRUD na ent
 
 ## JMeter
 
-Para executar os testes foi utilizado a ferramenta JMeter, localizado em [arquivo_Jmeter]([URL](https://github.com/LeticiaSBorges/Banco_Java_JMeter/tree/main/arquivo_Jmeter)https://github.com/LeticiaSBorges/Banco_Java_JMeter/tree/main/arquivo_Jmeter) nomeado como ***teste_plano.jmx***.
+Para executar os testes foi utilizado a ferramenta JMeter, localizado em [arquivo_Jmeter](https://github.com/LeticiaSBorges/Banco_Java_JMeter/tree/main/arquivo_Jmeter) nomeado como ***teste_plano.jmx***.
 
 
