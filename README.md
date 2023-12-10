@@ -1,5 +1,7 @@
 # Banco_Java_JMeter
 
+Alunos: Leticia de Sousa Borges; Ranniher da Silva Rosa
+
 Este aplicação proporciona uma API básica para interação com contas bancárias, permitindo operações como depósito e retirada. Além disso, demonstra o uso do controle de concorrência otimista em uma entidade ContaBancariaVersionada. O contém arquivos que compõem uma aplicação básica de banco com Spring Boot e Hibernate, utilizando o banco de dados H2 para armazenamento.
 
 Os arquivos são:
